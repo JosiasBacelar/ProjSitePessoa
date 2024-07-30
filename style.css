@@ -1,0 +1,62 @@
+/*Pagina 1*/
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    row-gap: row;
+
+}
+
+/*Texto de Apresentação*/
+.centered-content {
+    text-align: center;
+}
+
+/*Cards*/
+.idApresentacao {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: inline-flex;
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    height: 200px;
+    margin-top: 25%;
+}
+
+/*Campo contato*/
+.centered-content {
+    margin-top: 30%;
+}
+
+.card-body {
+    width: 100%;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-body {
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#contatos {
+    text-align: center;
+}
+
+/*Roda pé*/
+.rodape {
+    margin-top: 10px;
+
+}
+
+/*animação*/
+
+
+/* midia scren */
